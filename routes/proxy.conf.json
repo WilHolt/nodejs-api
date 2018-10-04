@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "your full api server url",
+    "changeOrigin": true
+  }
+}
